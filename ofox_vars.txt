@@ -1,0 +1,14 @@
+export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/platform/bootdevice/by-name/recovery"
+export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/platform/bootdevice/by-name/system"
+export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/platform/bootdevice/by-name/vendor"
+export OF_SKIP_FBE_DECRYPTION=1
+export OF_FLASHLIGHT_ENABLE=0
+export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+export ALLOW_MISSING_DEPENDENCIES=true
+export LC_ALL="C"
+export OF_MAINTAINER="blacklytning"
+export OF_MAINTAINER_AVATAR="/home/runner/work/Ubuntu-SSH/Ubuntu-SSH/ofox/device/oppo/CPH1861/maintainer.png"
+export OF_SCREEN_H="2160"
+export TARGET_DEVICE_ALT="CPH1859"
+export OF_SUPPORT_OZIP_DECRYPTION=1
+export OF_TARGET_DEVICES="CPH1859,CPH1861"
